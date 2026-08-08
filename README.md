@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -128,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
