@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Anmol1605/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
